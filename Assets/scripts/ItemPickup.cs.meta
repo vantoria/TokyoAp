@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ca9b36d285c62e747a5c75bc1ce613b6
+timeCreated: 1499408765
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mArm: {fileID: 2800000, guid: 51b7319069166a94e9aa90e8d2f5f692, type: 3}
+  - mOrgan: {fileID: 2800000, guid: b6ad506a9eae87840b1d7d4f6a14e1f0, type: 3}
+  - mBat: {fileID: 2800000, guid: 4fc01300c2a688d49b7a7623cfd19950, type: 3}
+  - mPipe: {fileID: 2800000, guid: 32f04a7fb8dd51d4c8f9abadfe7455fb, type: 3}
+  - mSmallStone: {fileID: 2800000, guid: cf0c8784071d8fc47836ff8add2db644, type: 3}
+  - mBigStone: {fileID: 2800000, guid: 389491e8b4daeff4d96d5caba02cbb68, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
